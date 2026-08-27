@@ -262,7 +262,7 @@ The overall heat-transfer coefficient combines the thermal resistances from the 
 
 A simplified resistance relation is:
 
-$$
+
 \frac{1}{U}
 =
 \frac{1}{h_i}
@@ -453,7 +453,7 @@ Pressure drop was evaluated on both the tube and shell sides.
 
 The total pressure drop can be conceptually represented as:
 
-$$
+
 \Delta P_{total}
 =
 \Delta P_{friction}
