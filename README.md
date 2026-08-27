@@ -108,15 +108,15 @@ The heat exchanger operates by transferring thermal energy from the hot stream t
 
 For a steady-state system:
 
-$$
+
 Q=\dot{m}_h C_{p,h}(T_{h,in}-T_{h,out})
-$$
+
 
 and:
 
-$$
+
 Q=\dot{m}_c C_{p,c}(T_{c,out}-T_{c,in})
-$$
+
 
 where:
 
@@ -194,21 +194,19 @@ The heat duty was calculated using the energy balance.
 
 For the hot stream:
 
-$$
+
 Q_h=\dot{m}_hC_{p,h}(T_{h,in}-T_{h,out})
-$$
+
 
 For the cold stream:
 
-$$
+
 Q_c=\dot{m}_cC_{p,c}(T_{c,out}-T_{c,in})
-$$
 
 The calculated heat duties should satisfy the approximate energy balance:
 
-$$
+
 Q_h \approx Q_c
-$$
 
 The required heat duty determines the approximate heat-transfer capacity of the exchanger.
 
