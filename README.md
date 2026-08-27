@@ -262,8 +262,9 @@ The overall heat-transfer coefficient combines the thermal resistances from the 
 
 A simplified resistance relation is:
 
+$$
+\fracc{1}{U}
 
-\frac{1}{U}
 =
 \frac{1}{h_i}
 +
